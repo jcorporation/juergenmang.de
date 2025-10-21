@@ -16,7 +16,6 @@ permalink: /
 <li><a href="https://community.f5.com/users/juergen_mang/126518" rel="me"><span class="bi-box-arrow-up-right me-2"></span>F5 DevCentral</a></li>
 <li><a href="https://github.com/jcorporation" rel="me"><span class="bi-github me-2"></span>GitHub &ndash; Private projects</a></li>
 <li><a href="https://github.com/JuergenMang/" rel="me"><span class="bi-github me-2"></span>GitHub &ndash; F5 related</a></li>
-<li><a href="https://libre.fm/user/jcorporation" rel="me"><span class="bi-box-arrow-up-right me-2"></span>Libre.fm</a></li>
 <li><a href="https://www.linkedin.com/in/j%C3%BCrgen-mang-745181b4/" rel="me"><span class="bi-linkedin me-2"></span>LinkedIn</a></li>
 <li><a href="https://mastodon.social/@jcorporation" rel="me"><span class="bi-mastodon me-2"></span>mastodon</a></li>
 </ul>
