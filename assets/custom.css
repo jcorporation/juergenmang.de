@@ -24,3 +24,16 @@
     color: white;
     text-decoration: none;
 }
+
+.card-body img {
+    max-width: 100%;
+}
+
+code {
+    color: var(--bs-orange) !important;
+}
+
+pre.highlight {
+    background-color: var(--bs-gray-800);
+    padding: 0.5rem;
+}

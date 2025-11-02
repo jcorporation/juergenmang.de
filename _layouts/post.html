@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="card mb-3">
+  <div class="card-header">{{ page.title }}</div>
+    <div class="card-body">
+      {{ content }}
+    </div>
+    <div class="card-footer">
+      <small>Posted on {{ page.date | date: "%d.%m.%Y"}}</small>
+  </div>
+</div>
+
+<hr/>
+
+<div class="row">
+  <div class="col">
+    <ul class="pagination">
+        <li class="page-item">
+          <a class="page-link" href="/garden/">Overview</a>
+        </li>
+    </ul>
+  </div>
+</div>
