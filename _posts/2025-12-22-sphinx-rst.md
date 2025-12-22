@@ -10,8 +10,8 @@ My small cheatsheet for [Sphinx](https://www.sphinx-doc.org).
 
 ## Other References
 
-- https://trudeau.dev/cheatsheets/rst.html
-- https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
+- [https://trudeau.dev/cheatsheets/rst.html](https://trudeau.dev/cheatsheets/rst.html)
+- [https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html)
 
 ## Inline Markup
 
@@ -94,7 +94,7 @@ or inline
 
 ## Admonitions
 
-https://sphinx-book-theme.readthedocs.io/en/stable/reference/kitchen-sink/admonitions.html
+- [https://sphinx-book-theme.readthedocs.io/en/stable/reference/kitchen-sink/admonitions.html](https://sphinx-book-theme.readthedocs.io/en/stable/reference/kitchen-sink/admonitions.html)
 
 ```rst
 .. danger:: Do not run myMPD as root.
