@@ -13,6 +13,20 @@ My small cheatsheet for [Sphinx](https://www.sphinx-doc.org).
 - [https://trudeau.dev/cheatsheets/rst.html](https://trudeau.dev/cheatsheets/rst.html)
 - [https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html)
 
+## Toctree
+
+- [Sphinx Documentation](https://documentation.help/Sphinx/toctree.html)
+
+```rst
+.. toctree::
+   :hidden:
+   :glob:
+   :titlesonly:
+
+   dir/index.rst
+   *
+```
+
 ## Inline Markup
 
 ```rst
