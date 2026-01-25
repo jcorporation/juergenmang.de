@@ -6,7 +6,7 @@ title: Digital Garden
 <div class="row row-cols-1 row-cols-md-3 row-cols-lg-4 g-4">
 {% for post in paginator.posts %}
   <div class="col">
-    <div class="card h-100">
+    <div class="card h-100 cardGarden">
       <img src="{{ post.image }}" class="card-img-top" alt="{{ post.title }}"/>
       <div class="card-body">
         <a class="d-block text-decoration-none" href="{{ post.url }}">{{ post.title }}</a>

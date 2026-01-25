@@ -4,7 +4,7 @@ title: juergenmang.de
 permalink: /
 ---
 
-<div class="card mb-3">
+<div class="card mb-3 cardAbout">
   <div class="card-header"><span class="bi-house me-2"></span>Welcome to my personal homepage</div>
   <div class="card-body">
     <p>I am a passionated software developer and Linux user located in the south of germany.</p>
@@ -26,7 +26,7 @@ permalink: /
   </div>
 </div>
 
-<div class="card mb-3">
+<div class="card mb-3 overflow-hidden cardGarden">
   <div class="card-header"><span class="bi-leaf-fill me-2"></span>Digital Garden</div>
   <div class="card-body">
     <p>My personal Digital Garden with various topics.</p>
@@ -36,7 +36,7 @@ permalink: /
   </div>
 </div>
 
-<div class="card mb-3">
+<div class="card mb-3 cardOpenSource">
   <div class="card-header"><span class="bi-code-square me-2"></span>OpenSource Projects</div>
   <div class="card-body">
     <p>In my free time I write code to support the <a href="https://www.musicpd.org/">MPD</a> ecosystem. I contribute directly to <a href="https://github.com/MusicPlayerDaemon/MPD">mpd</a> and <a href="https://github.com/MusicPlayerDaemon/libmpdclient">libmpdclient</a> and maintain my own software projects.</p>
@@ -66,7 +66,7 @@ permalink: /
   </div>
 </div>
 
-<div class="card mb-3">
+<div class="card mb-3 cardPnP">
   <div class="card-header"><span class="bi-book me-2"></span>Pen-And-Paper Roleplaying Games</div>
   <div class="card-body">
     <p>All these games are written in German and are <a href="http://creativecommons.org/licenses/by-sa/4.0/"><span class="bi-cc-circle"></span> BY-SA</a> licensed</p>

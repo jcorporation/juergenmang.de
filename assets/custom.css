@@ -33,7 +33,67 @@ code {
     color: var(--bs-orange) !important;
 }
 
+body {
+    background-color: #343a40;
+}
+
 pre.highlight {
     background-color: var(--bs-gray-800);
     padding: 0.5rem;
+}
+
+.cardAbout > div.card-header {
+    background-color: #212529;
+}
+
+.cardAbout > div.card-body {
+    background-color: #495057;
+}
+
+.cardAbout > div.card-body a {
+    color: #eee;
+}
+
+.cardGarden > div.card-header,
+.cardGarden > div.card-footer {
+    background-color: #146c43;
+}
+
+.cardGarden > div.card-body {
+    background-color: #479f76;
+}
+
+.cardGarden > div.card-body a {
+    color: #eee;
+}
+
+.cardOpenSource > div.card-header,
+.cardOpenSource > div.card-footer {
+    background-color: #0a58ca;
+}
+
+.cardOpenSource > div.card-body {
+    background-color: #3d8bfd;
+}
+
+.cardOpenSource > div.card-body a,
+.cardOpenSource > div.card-footer a {
+    color: #eee;
+}
+
+.cardPnP > div.card-header,
+.cardPnP > div.card-footer {
+    background-color: #ca6510;
+}
+
+.cardPnP > div.card-body {
+    background-color: #fecba1;
+    color: #343a40;
+}
+
+.cardPnP > div.card-body a {
+    color: #343a40;
+}
+.cardPnP > div.card-footer a {
+    color: #eee;
 }
