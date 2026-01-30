@@ -7,3 +7,4 @@ permalink: /garden/raspberry-links
 ---
 
 - [GPIO and the 40-pin header](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#gpio)
+- [Raspberry PI Tutorials](https://newbiely.com/tutorials/raspberry-pi-tutorial)
