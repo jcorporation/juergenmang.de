@@ -14,7 +14,7 @@ Some eventually useful c-snippets, that can be compiled as a standalone program.
 
 Fuzzy substring matching using the Levensthein distance. It adds a max distance option to the implementation to be as efficient as possible.
 
-Reference: https://en.wikibooks.org/wiki/Algorithm_Implementation/Strings/Levenshtein_distance#C
+Reference: [https://en.wikibooks.org/wiki/Algorithm_Implementation/Strings/Levenshtein_distance#C](https://en.wikibooks.org/wiki/Algorithm_Implementation/Strings/Levenshtein_distance#C)
 
 ## sylt.c
 
