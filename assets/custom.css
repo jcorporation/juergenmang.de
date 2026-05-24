@@ -1,40 +1,25 @@
 .navbar-brand {
-    font-size: 200%;
+    font-size: 300%;
 }
 
-/* light theme */
-[data-bs-theme="light"] header {
+header {
     background-color: var(--bs-gray-300);
-}
-
-/* dark theme */
-[data-bs-theme="dark"] header,
-[data-bs-theme="dark"] .card-header {
-    background-color: #000000;
-}
-
-[data-bs-theme="dark"] a,
-[data-bs-theme="dark"] a:visited,
-[data-bs-theme="dark"] a:hover,
-[data-bs-theme="dark"] a:active {
-    color: #aaa;
-}
-
-[data-bs-theme="dark"] a:hover {
-    color: white;
-    text-decoration: none;
-}
-
-.card-body img {
-    max-width: 100%;
+    border-bottom: 2px solid var(--bs-gray-400);
 }
 
 code {
     color: var(--bs-orange) !important;
 }
 
+a,
+a:visited,
+a:active,
+a:hover {
+    color: black;
+}
+
 body {
-    background-color: #343a40;
+    background-color: var(--bs-gray-200);
 }
 
 pre.highlight {
@@ -42,58 +27,38 @@ pre.highlight {
     padding: 0.5rem;
 }
 
+.card {
+    border: none;
+    border-bottom: 1px solid var(--bs-gray-400);
+}
+
+.card-header {
+    font-size: 200%;
+    background-color: var(--bs-gray-200);
+    border: none;
+}
+
+.card-body {
+    background-color: var(--bs-gray-200);
+}
+
+.card-body img {
+    max-width: 100%;
+}
+
 .cardAbout > div.card-header {
-    background-color: #212529;
+    color: #212529;
 }
 
-.cardAbout > div.card-body {
-    background-color: #495057;
+.cardGarden > div.card-header {
+    color: #146c43;
 }
 
-.cardAbout > div.card-body a {
-    color: #eee;
+.cardOpenSource > div.card-header {
+    color: #0a58ca;
 }
 
-.cardGarden > div.card-header,
-.cardGarden > div.card-footer {
-    background-color: #146c43;
+.cardPnP > div.card-header {
+    color: #ca6510;
 }
 
-.cardGarden > div.card-body {
-    background-color: #479f76;
-}
-
-.cardGarden > div.card-body a {
-    color: #eee;
-}
-
-.cardOpenSource > div.card-header,
-.cardOpenSource > div.card-footer {
-    background-color: #0a58ca;
-}
-
-.cardOpenSource > div.card-body {
-    background-color: #3d8bfd;
-}
-
-.cardOpenSource > div.card-body a,
-.cardOpenSource > div.card-footer a {
-    color: #eee;
-}
-
-.cardPnP > div.card-header,
-.cardPnP > div.card-footer {
-    background-color: #ca6510;
-}
-
-.cardPnP > div.card-body {
-    background-color: #fecba1;
-    color: #343a40;
-}
-
-.cardPnP > div.card-body a {
-    color: #343a40;
-}
-.cardPnP > div.card-footer a {
-    color: #eee;
-}
