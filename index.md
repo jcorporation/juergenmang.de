@@ -20,7 +20,6 @@ permalink: /
       <li><a href="https://mastodon.social/@jcorporation" rel="me"><span class="bi-mastodon me-2"></span>mastodon</a></li>
       <li><a href="https://www.discogs.com/user/jcorporation/collection" rel="me"><span class="bi-vinyl-fill me-2"></span>Discogs Collection</a></li>
     </ul>
-    <p>If you like one of my personal projects you can <a href="{{ site.url }}/donate">donate</a> a <span class="bi-cup-hot"></span> coffee to me.</p>
   </div>
 </div>
 
