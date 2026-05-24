@@ -46,6 +46,10 @@ pre.highlight {
     max-width: 100%;
 }
 
+.card-subsection {
+    padding-left: 2rem;
+}
+
 .cardAbout > div.card-header {
     color: #212529;
 }
