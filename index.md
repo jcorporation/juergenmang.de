@@ -8,7 +8,7 @@ permalink: /
   <div class="card-header"><span class="bi-person-vcard me-2"></span>About me</div>
   <div class="card-body">
     <p>I am a passionate software developer and Linux user based in southern Germany.</p>
-    <p>I work as an IT security consultant, specializing in web application security and designing CI/CD environments for automated F5 ADC operations. I have been an F5 DevCentral MVP since 2023, and I help organizations transition their F5 infrastructure from ClickOps to DevOps.</p>
+    <p>I work as an IT security consultant, specializing in web application security and designing CI/CD environments for automated F5 ADC operations. I have been an F5 DevCentral MVP since 2023, and I help organizations transition their F5 infrastructure from ClickOps to GitOps.</p>
     <p>In my spare time, I contribute to and maintain various open-source software projects.</p>
     <p>You can find me also at:</p>
     <ul>
