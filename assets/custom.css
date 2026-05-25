@@ -31,10 +31,11 @@ pre {
     padding: 1rem;
 }
 
-.card {
-    border: none;
+.cardMain {
     background-color: transparent;
+    border: none;
     border-bottom: 1px solid var(--bs-gray-400);
+    border-radius: 0%;
 }
 
 .card-header {
@@ -75,11 +76,7 @@ pre {
     color: #146c43;
 }
 
-.cardGardenOverview {
-    background-color: white;
-    border: var(--bs-card-border-width) solid var(--bs-card-border-color);
-}
-
 .cardGardenPost {
-    border-bottom: none;
+    border: none;
+    background-color: transparent;
 }

@@ -4,7 +4,7 @@ title: juergenmang.de
 permalink: /
 ---
 
-<div class="card mb-3 cardAbout">
+<div class="card mb-3 cardMain cardAbout">
   <div class="card-header"><span class="bi-person-vcard me-2"></span>About me</div>
   <div class="card-body">
     <p>I am a passionate software developer and Linux user based in southern Germany.</p>
@@ -23,7 +23,7 @@ permalink: /
   </div>
 </div>
 
-<div class="card mb-3 overflow-hidden cardGarden">
+<div class="card mb-3 overflow-hidden cardMain cardGarden">
   <div class="card-header"><span class="bi-leaf-fill me-2"></span>Digital Garden</div>
   <div class="card-body">
     <p>My personal Digital Garden with various topics.</p>
@@ -33,7 +33,7 @@ permalink: /
   </div>
 </div>
 
-<div class="card mb-3 cardOpenSource">
+<div class="card mb-3 cardMain cardOpenSource">
   <div class="card-header"><span class="bi-code-square me-2"></span>OpenSource Projects</div>
   <div class="card-body">
     <h3 class="card-title">F5 related</h3>
@@ -72,7 +72,7 @@ permalink: /
   </div>
 </div>
 
-<div class="card mb-3 cardPnP">
+<div class="card mb-3 cardMain cardPnP">
   <div class="card-header"><span class="bi-book me-2"></span>Pen-And-Paper Roleplaying Games</div>
   <div class="card-body">
     <p>All these games are written in German and are <a href="http://creativecommons.org/licenses/by-sa/4.0/"><span class="bi-cc-circle"></span> BY-SA</a> licensed.</p>
