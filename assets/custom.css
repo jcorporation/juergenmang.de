@@ -26,9 +26,9 @@ body {
     background-color: var(--bs-gray-200);
 }
 
-pre.highlight {
-    background-color: var(--bs-gray-800);
-    padding: 0.5rem;
+pre {
+    background-color: var(--bs-gray-100);
+    padding: 1rem;
 }
 
 .card {
