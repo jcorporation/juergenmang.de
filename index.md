@@ -79,17 +79,17 @@ permalink: /
     <h3 class="card-title">SpacePirates</h3>
     <p>Ein freies und abgedrehtes Space-Opera-Rollenspiel um Piraten im Weltraum im Stil der 1980er Zeichentrickserien und Comics.</p>
     <ul>
-      <li><a href="https://spacepirates.jcgames.de">SpacePirates</a></li>
+      <li><a href="https://spacepirates.juergenmang.de">SpacePirates</a></li>
     </ul>
     <h3 class="card-title">Lite</h3>
     <p>Ein erzählerisch Rollenspiel für viele unterschiedliche Genres. Die Regeln von SpacePirates und dem Weltenbuch basieren hierauf.</p>
     <ul>
-      <li><a href="https://lite.jcgames.de">Lite</a></li>
+      <li><a href="https://lite.juergenmang.de">Lite</a></li>
     </ul>
     <h3 class="card-title">Das Weltenbuch</h3>
     <p>Ein klischeehaftes Fantasy-Rollenspiel auf einer Buchdoppelseite.</p>
     <ul>
-      <li><a href="https://dasweltenbuch.jcgames.de">Das Weltenbuch</a></li>
+      <li><a href="https://dasweltenbuch.juergenmang.de">Das Weltenbuch</a></li>
     </ul>
   </div>
 </div>
